@@ -1,9 +1,4 @@
 # RevenueRescue AI
-# RevenueRescue AI
-
-##  Live Demo
-
-👉 [**Open RevenueRescue AI**](# RevenueRescue AI
 
 ## 🚀 Live Demo
 
