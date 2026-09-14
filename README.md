@@ -1,6 +1,15 @@
 # RevenueRescue AI
+# RevenueRescue AI
 
-## Intelligent Payment Recovery System
+##  Live Demo
+
+👉 [**Open RevenueRescue AI**](# RevenueRescue AI
+
+## 🚀 Live Demo
+
+👉 [**Open RevenueRescue AI**](https://revenuerescueai-f2tygsdydqc6xbb59ipexn.streamlit.app/)
+
+## 🤖 Intelligent Payment Recovery System
 
 RevenueRescue AI is an AI/ML-based payment recovery system designed to help businesses recover revenue lost due to failed payment transactions.
 
